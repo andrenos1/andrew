@@ -1,0 +1,130 @@
+/*Главная страница*/
+body{
+	margin: 0;
+	padding: 0;
+
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.header{
+ background-image: url(https://www.free-wallpapers.su/data/media/18/big/tex0369.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+}
+
+
+.description{
+	color: white;
+	position: relative;
+    width: 450px;
+    margin: auto;
+    width: 450px;
+    height: 300px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    
+}
+.description1{
+	color: white;
+	position: relative;
+	width: 450px;
+    height: 250px;
+   
+    margin: auto;
+    padding-top: 50px; 
+
+}
+
+.name{
+	padding: 5px 30px 15px 30px;
+
+    border-bottom: 4px solid #00ACC1;;
+    border-top:  4px solid #00ACC1;;
+    margin-bottom: 50px;
+}
+
+.hire-me{
+	    margin-top: 15px;
+}
+
+
+/*ОБО  мне*/
+
+.row{
+	margin-right: -15px;
+    margin-left: -15px;
+}
+
+.heading{
+	
+    margin:auto;
+    color: #00acc1;
+
+}
+
+.line{
+	border-bottom: 2px solid grey;
+    width: 150px;
+    margin: 40px auto;
+}
+
+.grey{
+	
+
+	background-color: #f5f5f5;
+}
+.white{
+	
+
+	background-color: #fafafa;
+}
+.base{
+	
+
+	background-color: #fafafa;
+}
+.section{
+	padding: 60px 0;
+}
+.section img{
+	padding: 20px 0;
+}
+#test-circle1{
+	max-width: 300px;
+	margin: auto;
+}
+.logo{
+	width: 80px;
+}
+.last{
+	margin:50px 0;
+}
+.footer{
+	padding: 20px ;
+	display: flex;
+}
+.footer-logo{
+	display: flex;
+	margin-left: auto;
+	margin-right: 20px;
+}
+.footer-back{
+	color: white;
+	background-image: url(https://www.free-wallpapers.su/data/media/18/big/tex0369.jpg);
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+
+}
+
+.footer a{
+	color: white;
+}
